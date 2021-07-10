@@ -1,0 +1,107 @@
+	
+	
+	body {
+
+		text-align: center;
+		          font-family:Lucida Handwriting,Papyrus,Optima;
+		                      box-sizing: border-box;
+		                                 display: grid; 
+	
+	}
+	.footer { 
+	position: fixed; 
+	         left: 0; 
+	             bottom: 0; 
+	                   width:100%;
+	                        background-color: pink; 
+	                                        color: white; 
+	                                              text-align: centre; 
+	                                                         color: black;
+                                                                    text-decoration: none;
+	}
+   .footer>p4>a{color: black ; 
+    }
+	
+	.Blinks {
+		position: relative;
+	  
+	}		
+		
+	h1 {
+		color: black;
+		      text-align: center ; 
+	                    font-family:Lucida Handwriting,Garamond,Papyrus,Courier New;
+	                               font-size: 60px ; 
+	} 
+	
+	p1 {
+		font-size: 20px; 
+		         font-family:Lucida Handwriting,Garamond,Papyrus,Optima;
+	                         background-color: white;
+	                                                                   }
+h3 {
+	background-color: pink ; 
+	                font-family:Lucida Handwriting,Garamond,Papyrus, Optima;
+                                                              } 
+ul { 
+    display : inline;
+	list-style: none;
+	list-style: inline; 
+	word-spacing: 30px ; 
+	background-color: pink;
+	font-family:Lucida Handwriting,Garamond,Papyrus, Optima;
+	font-size: 40px; 
+	color: black;
+	                                                               
+	}
+	
+	ul>li {
+         float: left;
+}
+
+
+ul>li>a{
+		color: black;
+		      text-decoration: none ;
+		                        display: block;
+                                     padding: 8px;
+                                         background-color: white; 
+			 }
+	p3 { 
+	word-spacing: 30px ;
+	             font-family:Lucida Handwriting,Garamond,Optima;
+	                         font-size: 30px; 
+	                                                    }
+	p3>a{color:black;}
+	h4 { 
+	    text-align: centre ; 
+	              font-family:Lucida Handwriting,Garamond,Optima;
+	                         background-color: Pink ; 
+	                                         font-size: 40px ; 
+	                                                      }
+figcaption { 
+         font-size: 30px ;
+                   font-family:Lucida Handwriting,Garamond,Optima;
+                                                      }
+
+.images {
+	    height: 350px;
+                   width: 100%;
+               }
+	
+.ALOESOAP {
+         height: 350px;
+                width: 100%;
+               }
+			   
+.CHARCOALSOAPS {
+               height: 350px;
+                       width: 100%;
+               }
+
+
+  .TUMERICSOAPS {
+                 height: 350px;
+                         width: 100%;
+               }
+
